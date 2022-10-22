@@ -80,7 +80,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   borderRadius: BorderRadius.circular(20),
                   color:
                       shouldShowVerified ? Colors.green : Colors.transparent),
-              //
+
               child: Column(
                 children: [
                   Padding(
